@@ -1,5 +1,3 @@
-// http://www.reigndesign.com/blog/using-your-own-sqlite-database-in-android-applications/
-
 package br.com.gjmoretti;
 
 import java.io.FileOutputStream;
